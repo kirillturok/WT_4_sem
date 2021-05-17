@@ -1,0 +1,18 @@
+.form{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.inputAdr{
+    width: 350px;
+}
+
+textarea{
+    width: 350px;
+    font-size: 20px;
+}
+
+.inform{
+    text-align: center;
+    font-size:30px;
+}
