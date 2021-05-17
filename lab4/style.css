@@ -1,0 +1,27 @@
+.form{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    font-size: 20px;
+}
+
+.column{
+    margin: 0 auto;
+}
+
+.blue{
+    color:blue;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
